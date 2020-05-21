@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <!-- img class="overview-image" src="" -->
 
-Continue your work in TestOut
+Continue making progress in TestOut.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
