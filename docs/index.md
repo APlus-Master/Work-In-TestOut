@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <!-- img class="overview-image" src="" -->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+Continue your work in TestOut
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
